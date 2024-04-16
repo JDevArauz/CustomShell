@@ -1,0 +1,8 @@
+#1 INSTALL MSYS2 IN WINDOWS
+#2 ADD TO PATH THE MSYS2: C:\msys64\usr\local\bin AND C:\msys64\usr\bin;
+#3 OPEN MSYS2 SHELL AND EXECUTE: pacman -S base-devel gcc vim cmake
+#4 INSTALL:  pacman -Ss mingw-w64-i686-gcc
+#5 RESTART COMPUTER 
+#6 OPEN TERMINAL AND EXECUTE "make"
+#7 EXECUTE ./myprompt AND READY
+
