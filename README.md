@@ -22,5 +22,5 @@ Se trata de un programa diseñado para emular un Shell, utilizando las llamadas 
 - **Admite anexión a fichero ">> fichero".**
 - **Admite entrada desde fichero "< fichero".**
 - **Admite pasar comandos a segundo plano "&".**
-- **Admite caracteres comodín (* y ?).**
+- **Admite caracteres comodín ('*' y '?').**
 - **Admite envío de señales a los comandos lanzados:** Pasa la señal SIGINT (Ctrl+C) a los procesos hijos.
